@@ -1,0 +1,19 @@
+{
+  "solutions": [
+    { "id": 1, "word": "apple" },
+    { "id": 2, "word": "spade" },
+    { "id": 3, "word": "heart" },
+    { "id": 4, "word": "drive" },
+    { "id": 5, "word": "relax" },
+    { "id": 6, "word": "smile" },
+    { "id": 7, "word": "train" },
+    { "id": 8, "word": "basic" },
+    { "id": 9, "word": "angry" },
+    { "id": 10, "word": "blame" },
+    { "id": 11, "word": "happy" },
+    { "id": 12, "word": "phone" },
+    { "id": 13, "word": "bling" },
+    { "id": 14, "word": "zebra" },
+    { "id": 15, "word": "hello" }
+  ]
+}
