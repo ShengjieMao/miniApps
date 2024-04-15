@@ -1,3 +1,9 @@
+tech used: Typescript, Tailwind CSS, React
+
+start page: ![image info](start_page.png)
+
+game end and result: ![image info](game_ends.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
